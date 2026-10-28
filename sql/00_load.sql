@@ -7,10 +7,7 @@ FROM read_csv_auto('data/train_transaction.csv');
 
 CREATE OR REPLACE TABLE identity AS
 SELECT TransactionID, DeviceType, DeviceInfo
-FROM read_csv_auto('data/train_identity.csv');
-
-
-
+FROM  read_csv_auto('data/train_identity.csv');
 
 
 

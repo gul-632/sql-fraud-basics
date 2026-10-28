@@ -1,0 +1,4 @@
+DeviceType,total_transactions,fraud_transactions,fraud_rate
+mobile,55645,5657.0,10.17
+desktop,85165,5554.0,6.52
+,3423,107.0,3.13

@@ -1,0 +1,19 @@
+card4,ProductCD,total_transactions,fraud_transactions,fraud_rate,product_rank
+american express,C,2,2.0,100.0,1
+american express,H,1566,91.0,5.81,2
+american express,S,622,35.0,5.63,3
+american express,R,6138,111.0,1.81,4
+discover,S,580,77.0,13.28,1
+discover,W,4379,336.0,7.67,2
+discover,H,603,45.0,7.46,3
+discover,R,1089,56.0,5.14,4
+mastercard,C,27418,3072.0,11.2,1
+mastercard,H,7938,413.0,5.2,2
+mastercard,R,7432,373.0,5.02,3
+mastercard,S,4042,200.0,4.95,4
+mastercard,W,142387,2438.0,1.71,5
+visa,C,40904,4916.0,12.02,1
+visa,S,6384,374.0,5.86,2
+visa,H,22907,1024.0,4.47,3
+visa,R,23039,885.0,3.84,4
+visa,W,291533,6174.0,2.12,5

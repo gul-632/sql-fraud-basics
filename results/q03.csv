@@ -1,0 +1,16 @@
+card4,card6,n_transactions,n_fraud,fraud_pct
+,credit,3,1.0,33.33
+,debit,9,1.0,11.11
+discover,credit,6304,500.0,7.93
+mastercard,credit,50772,3511.0,6.92
+visa,credit,83732,5704.0,6.81
+discover,debit,347,14.0,4.03
+american express,debit,144,5.0,3.47
+american express,credit,8175,234.0,2.86
+visa,debit,301023,7669.0,2.55
+,,1565,39.0,2.49
+mastercard,debit,138415,2985.0,2.16
+american express,charge card,3,0.0,0.0
+visa,charge card,12,0.0,0.0
+american express,,6,0.0,0.0
+mastercard,debit or credit,30,0.0,0.0

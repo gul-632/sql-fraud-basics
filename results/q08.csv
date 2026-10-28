@@ -1,0 +1,11 @@
+P_emaildomain,n_transactions,n_fraud,fraud_pct
+outlook.com,5096,482.0,9.46
+hotmail.com,45250,2396.0,5.3
+gmail.com,228355,9943.0,4.35
+icloud.com,6267,197.0,3.14
+comcast.net,7888,246.0,3.12
+bellsouth.net,1909,53.0,2.78
+live.com,3041,84.0,2.76
+anonymous.com,36998,859.0,2.32
+yahoo.com,100934,2297.0,2.28
+msn.com,4092,90.0,2.2
